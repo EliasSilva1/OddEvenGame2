@@ -40,5 +40,5 @@ public class OddEvenGame2 {
 		
 	}
 	
-
+// Good job, Elias.   Please stay away from static method for now.
 }
